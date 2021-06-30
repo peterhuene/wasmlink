@@ -1,3 +1,11 @@
+# Notice
+
+This repository has moved to a [Bytecode Alliance repository](https://github.com/bytecodealliance/witx-bindgen/tree/main/crates/wasmlink).
+
+This repository has been archived.
+
+<p/>
+
 <div align="center">
   <h1><code>wasmlink</code></h1>
 
